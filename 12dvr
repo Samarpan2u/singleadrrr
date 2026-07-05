@@ -1,15 +1,15 @@
 <VAST version="4.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd">
-  <Ad id="preroll_A">
+  <Ad id="SPANISH_AD">
     <InLine>
       <AdSystem>TestAdServer</AdSystem>
-      <AdTitle>test_preroll</AdTitle>
+      <AdTitle>SPANISHAD</AdTitle>
       <Creatives>
-        <Creative id="1421/947-76/56">
+        <Creative id="1421abcd">
           <Linear>
-            <Duration>00:00:10</Duration>
+            <Duration>00:00:20</Duration>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
-                <![CDATA[https://github.com/subodh5/vast-sample/raw/refs/heads/main/pringles.mp4]]>
+                <![CDATA[https://assets.springserve.com/video_creatives/001/266/185/2026_07_02-ADAPTACIONES-ABOLICIÓN-PROSTITUCIÓN-DIGITAL-640X360_20SECS__1_.mp4]]>
               </MediaFile>
             </MediaFiles>
           </Linear>
