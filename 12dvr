@@ -8,7 +8,7 @@
           <Linear>
             <Duration>00:00:20</Duration>
             <MediaFiles>
-              <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080">
+              <MediaFile delivery="progressive" type="audio/m4a" width="1920" height="1080">
                 <![CDATA[https://github.com/Samarpan2u/audio-vast/raw/refs/heads/main/sample4.m4a]]>
               </MediaFile>
             </MediaFiles>
