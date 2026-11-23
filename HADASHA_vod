@@ -8,7 +8,7 @@
           <Linear>
             <Duration>00:00:12</Duration>
             <MediaFiles>
-              <MediaFile delivery="progressive" type="audio/m4a" width="1280" height="720">
+              <MediaFile delivery="progressive" type="video/mp4" width="1280" height="720">
                 <![CDATA[ https://dynamic.dxmcdn.com/9cddc1b7-a588-4397-a3f2-7d5783be6a23ZtRtghigh.mp4 ]]>
               </MediaFile>
             </MediaFiles>
