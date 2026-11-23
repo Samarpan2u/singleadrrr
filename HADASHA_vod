@@ -1,15 +1,15 @@
 <VAST version="4.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd">
-  <Ad id="HADASHA">
+  <Ad id="HADASHAa">
     <InLine>
       <AdSystem>TestAdServer</AdSystem>
       <AdTitle>HADASHA</AdTitle>
       <Creatives>
-        <Creative id="HADASHA31">
+        <Creative id="HADASHA310">
           <Linear>
-            <Duration>00:00:31</Duration>
+            <Duration>00:00:12</Duration>
             <MediaFiles>
-              <MediaFile delivery="progressive" type="audio/m4a" width="1920" height="1080">
-                <![CDATA[ https://ast.g-mana.online/bmedia-server/62c80781ebc2b50084d4c24d/creatives/d375fc31-d950-43fe-af9f-0ad341b1e5a9.mp4 ]]>
+              <MediaFile delivery="progressive" type="audio/m4a" width="1280" height="720">
+                <![CDATA[ https://dynamic.dxmcdn.com/9cddc1b7-a588-4397-a3f2-7d5783be6a23ZtRtghigh.mp4 ]]>
               </MediaFile>
             </MediaFiles>
           </Linear>
